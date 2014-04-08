@@ -62,7 +62,8 @@ body, h1, h2, h3, h4, h5, h6 {
   margin: 0.7em 0 0 1em;
 }
 .jumbotron {
-  background: url(../img/noisy_net.png);
+  /*background: url(../img/noisy_net.png);*/
+  background-color:#eee;
   color: #0A0D64;
   padding: 4em 0 1em;
   text-align: center;
